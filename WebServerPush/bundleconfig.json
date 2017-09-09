@@ -1,0 +1,16 @@
+[
+  {
+    "outputFileName": "Scripts/libs.bundle.js",
+    "inputFiles": [
+      "Scripts/jquery-3.1.1.js",
+      "Scripts/bootstrap.js",
+      "Scripts/respond.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/Site.min.css",
+    "inputFiles": [
+      "Content/Site.css"
+    ]
+  }
+]
