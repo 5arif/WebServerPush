@@ -10,7 +10,6 @@ namespace WebServerPush.Filter
     {
         string[] localPath;
         string revNum;
-        bool rev;
         
         public PushPromiseAttribute(string[] path)
         {
